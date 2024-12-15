@@ -1,4 +1,5 @@
-## Hi there 👋
+## Hi! 👋
+My name is Jessica and I currently studying CS at the Siebel School of Computing and Data Science, housed within the Grainger College of Engineering at UIUC. Feel free to checkout my LinkedIn and contact me at pei7@illinois.edu. 
 
 <!--
 **jessica-pei8/jessica-pei8** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
